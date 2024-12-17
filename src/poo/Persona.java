@@ -1,7 +1,6 @@
 
 package poo;
 
-
 public class Persona {
     
     String nombre;
